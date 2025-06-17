@@ -29,3 +29,23 @@
 - **ML Model**: Classification model trained to predict triage urgency level
 
 ---
+
+## 🧪 Example Input & Output
+
+### 👨‍⚕️ Input:
+
+- Age: 65  
+- Gender: Male  
+- Pain: Yes  
+- Mental Status: Confused
+
+### 🔍 Output:
+
+> 🔴 **Critical** – Immediate intervention required!
+
+---
+
+## 🙌 Acknowledgments
+
+- Built using [Streamlit]
+- ML modeling with [scikit-learn]
